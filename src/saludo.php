@@ -9,7 +9,7 @@ class Saludo
  "es" => ["saludo" => "¡Hola Mundo!", "codigo" => "ES"], // Español
  "zh" => ["saludo" => "你好，世界！", "codigo" => "CN"], // Chino
  "en" => ["saludo" => "Hello, World!", "codigo" => "US"], // Inglés
- "hi" => ["saludo" => "नमस्ते दनुनया!", "codigo" => "IN"], // Hindi
+ "hi" => ["saludo" => "नमस्ते दनुनया! ", "codigo" => "IN"], // Hindi
  "ar" => ["saludo" => "" ,"!بالعالم " => "AR"], // Árabe
  "pt" => ["saludo" => "Olá Mundo!", "codigo" => "PT"], // Portugués
  "ru" => ["saludo" => "Привет, мир!", "codigo" => "RU"], // Ruso
